@@ -90,7 +90,7 @@ label{
   margin-bottom: 1rem;
   margin-top: 1rem;
   text-align: right;
-  width: 300px;   
+  width: 350px;
 }
 input,textarea {
   border: 1px solid rgb(186, 186, 186);
